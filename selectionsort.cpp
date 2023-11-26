@@ -42,3 +42,4 @@
 		}
 		return 0;
 	}
+// bubblesort nhanh hon selectionsort
